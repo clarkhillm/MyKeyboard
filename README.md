@@ -1,5 +1,8 @@
 # MyKeyboard 
 
+这个项目是用来记录制作键盘相关资料的。
+目前想法如下：
+
 按键开关
 ---------
 cherry mx red switch
