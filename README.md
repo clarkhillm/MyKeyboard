@@ -41,6 +41,11 @@ cherry mx red switch
 
 键帽购进之后，我们应该用硬纸板来做一个面板的原型，防止浪费。
 
+一些资源
+--------
+<https://geekhack.org/index.php?topic=41989.0>关于TMK键盘固件的一个论坛。
+<http://www.davecooper.org/blog/2014/10/15/i-built-a-keyboard/>某人自己做的键盘的经验。
+
 
 
 
