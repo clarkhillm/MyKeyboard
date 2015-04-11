@@ -16,7 +16,7 @@ cherry mx red switch
 
 龙船龙豆和平衡杆
 --------
-这个东西是用来支撑比较长的按键的，比如spacebar。
+这个东西是用来支撑比较长的按键的，比如spacebar。这个东西的规格：宽度：3.3mm，高度14mm（与开关一致）
 
 固件
 -----
@@ -45,11 +45,4 @@ cherry mx red switch
 --------
 <https://geekhack.org/index.php?topic=41989.0>关于TMK键盘固件的一个论坛。
 <http://www.davecooper.org/blog/2014/10/15/i-built-a-keyboard/>某人自己做的键盘的经验。
-
-
-
-
-
-
-
 
