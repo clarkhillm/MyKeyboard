@@ -45,4 +45,4 @@ cherry mx red switch
 --------
 <https://geekhack.org/index.php?topic=41989.0>关于TMK键盘固件的一个论坛。
 <http://www.davecooper.org/blog/2014/10/15/i-built-a-keyboard/>某人自己做的键盘的经验。
-
+<http://www.dribin.org/dave/keyboard/one_html/>电路中二极管的作用。
